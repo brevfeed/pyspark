@@ -17,3 +17,6 @@ _SUCCESS
 .idea/
 .DS_Store
 Thumbs.db
+
+# Build artifact from the notebook generator
+_index.json
