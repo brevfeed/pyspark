@@ -1,0 +1,5 @@
+# Keep everything LF in the working tree too — the data files are parsed
+# line-by-line by Spark (events.jsonl has a deliberately corrupt line), and
+# notebooks diff far more cleanly without CRLF churn.
+* text=auto eol=lf
+*.ipynb text eol=lf

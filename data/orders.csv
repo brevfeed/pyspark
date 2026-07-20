@@ -1,0 +1,42 @@
+order_id,customer_id,order_date,product,category,quantity,unit_price,country
+1001,c001,2026-06-01,USB-C Cable,electronics,3,9.99,IN
+1002,c002,2026-06-01,Espresso Beans 1kg,grocery,1,18.50,DE
+1003,c003,2026-06-02,Noise-Cancelling Headphones,electronics,1,199.00,US
+1004,c001,2026-06-02,Yoga Mat,sports,1,24.90,IN
+1005,c004,2026-06-03,Mystery Novel,books,2,12.00,UK
+1006,c005,2026-06-03,Mechanical Keyboard,electronics,1,89.99,IN
+1007,c002,2026-06-04,Green Tea 200g,grocery,4,6.75,DE
+1008,c006,2026-06-04,Running Shoes,sports,1,74.50,US
+1009,c003,2026-06-05,Phone Case,electronics,2,14.99,US
+1010,c007,2026-06-05,Cookbook,books,1,27.00,
+1011,c004,2026-06-06,Desk Lamp,electronics,1,32.40,UK
+1012,c008,2026-06-06,Protein Bars 12x,grocery,,21.00,IN
+1013,c001,2026-06-07,Water Bottle,sports,2,11.25,IN
+1014,c009,2026-06-07,Sci-Fi Anthology,books,1,15.80,DE
+1015,c005,2026-06-08,Webcam,electronics,1,54.00,IN
+1016,c010,2026-06-08,Olive Oil 1L,grocery,2,13.60,
+1017,c006,2026-06-09,Tennis Balls 4x,sports,3,8.99,US
+1018,c002,2026-06-09,Poetry Collection,books,1,10.50,DE
+1019,c011,2026-06-10,Bluetooth Speaker,electronics,1,45.00,UK
+1020,c007,2026-06-10,Pasta 5x500g,grocery,1,9.20,IN
+1021,c012,2026-06-11,Fitness Tracker,electronics,1,129.00,US
+1021,c012,2026-06-11,Fitness Tracker,electronics,1,129.00,US
+1022,c008,2026-06-11,History of Rome,books,1,31.00,IN
+1023,c013,2026-06-12,Jump Rope,sports,2,7.40,DE
+1024,c003,2026-06-12,HDMI Cable,electronics,2,12.75,US
+1025,c014,2026-06-13,Coffee Grinder,grocery,1,64.00,UK
+1026,c009,2026-06-13,Graphic Novel,books,3,19.99,DE
+1027,c015,2026-06-14,Gaming Mouse,electronics,1,39.90,IN
+1028,c010,2026-06-14,Honey 500g,grocery,2,8.80,IN
+1029,c011,2026-06-15,Soccer Ball,sports,1,22.00,UK
+1030,c016,2026-06-15,Language Textbook,books,1,42.50,
+1031,c004,2026-06-16,Monitor Stand,electronics,1,28.60,UK
+1032,c017,2026-06-16,Trail Mix 1kg,grocery,,11.90,US
+1033,c012,2026-06-17,Cycling Gloves,sports,1,16.75,US
+1034,c005,2026-06-17,Ergonomic Chair,furniture,1,240.00,IN
+1035,c018,2026-06-18,Children's Atlas,books,2,17.30,DE
+1036,c013,2026-06-18,Wireless Charger,electronics,1,25.99,DE
+1037,c019,2026-06-19,Basmati Rice 5kg,grocery,1,15.40,IN
+1038,c014,2026-06-19,Resistance Bands,sports,1,13.20,UK
+1039,c020,2026-06-20,Standing Desk,furniture,1,310.00,US
+1040,c015,2026-06-20,Travel Guide Japan,books,1,21.90,IN

@@ -1,0 +1,22 @@
+customer_id,name,city,country,signup_date,segment
+c001,Aarav Sharma,Mumbai,IN,2025-11-03,premium
+c002,Lena Fischer,Berlin,DE,2025-09-18,standard
+c003,Mia Johnson,Austin,US,2026-01-22,premium
+c004,Oliver Bennett,London,UK,2025-12-05,standard
+c005,Priya Nair,Bengaluru,IN,2026-02-14,premium
+c006,Jake Miller,Denver,US,2025-08-30,standard
+c007,Rohan Mehta,Delhi,IN,2026-03-01,standard
+c008,Ananya Iyer,Chennai,IN,2025-10-12,premium
+c009,Jonas Weber,Munich,DE,2026-01-09,standard
+c010,Kavya Reddy,Hyderabad,IN,2026-04-25,standard
+c011,Emma Clarke,Manchester,UK,2025-07-21,premium
+c012,Liam Carter,Seattle,US,2026-02-02,standard
+c013,Sofia Krueger,Hamburg,DE,2026-05-16,standard
+c014,Harry Wilson,Bristol,UK,2025-09-04,standard
+c015,Divya Menon,Kochi,IN,2026-03-19,premium
+c016,Nina Hoffmann,Cologne,DE,2026-06-07,standard
+c017,Tyler Brooks,Chicago,US,2026-05-28,standard
+c018,Clara Schmidt,Frankfurt,DE,2025-11-27,premium
+c020,Ethan Ross,Boston,US,2026-06-10,standard
+c021,Isabelle Moreau,Paris,FR,2026-06-12,standard
+c022,Marco Rossi,Milan,IT,2026-06-15,premium

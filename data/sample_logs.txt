@@ -1,0 +1,40 @@
+2026-07-01 08:00:01 INFO auth user=u101 action=login status=ok
+2026-07-01 08:00:03 INFO api user=u102 action=get_orders status=ok latency_ms=42
+2026-07-01 08:00:04 WARN api user=u103 action=get_orders status=slow latency_ms=1890
+2026-07-01 08:00:07 INFO auth user=u104 action=login status=ok
+2026-07-01 08:00:09 ERROR payments user=u102 action=charge status=declined code=51
+2026-07-01 08:00:11 INFO api user=u101 action=get_profile status=ok latency_ms=38
+2026-07-01 08:00:15 INFO auth user=u105 action=login status=ok
+2026-07-01 08:00:16 INFO api user=u105 action=get_orders status=ok latency_ms=51
+2026-07-01 08:00:19 WARN auth user=u106 action=login status=retry attempt=2
+2026-07-01 08:00:21 INFO payments user=u104 action=charge status=ok amount=19.99
+2026-07-01 08:00:24 INFO api user=u103 action=get_profile status=ok latency_ms=44
+2026-07-01 08:00:27 ERROR api user=u107 action=get_orders status=timeout latency_ms=30000
+2026-07-01 08:00:29 INFO auth user=u106 action=login status=ok attempt=3
+2026-07-01 08:00:31 INFO api user=u102 action=search status=ok latency_ms=87
+2026-07-01 08:00:33 INFO api user=u105 action=search status=ok latency_ms=91
+2026-07-01 08:00:36 WARN payments user=u108 action=charge status=slow latency_ms=2400
+2026-07-01 08:00:38 INFO auth user=u107 action=logout status=ok
+2026-07-01 08:00:41 INFO api user=u104 action=get_orders status=ok latency_ms=47
+2026-07-01 08:00:44 ERROR auth user=u109 action=login status=failed code=bad_password
+2026-07-01 08:00:46 INFO api user=u101 action=search status=ok latency_ms=66
+2026-07-01 08:00:49 INFO payments user=u105 action=charge status=ok amount=4.50
+2026-07-01 08:00:52 WARN api user=u102 action=get_profile status=slow latency_ms=1210
+2026-07-01 08:00:54 INFO auth user=u109 action=login status=ok
+2026-07-01 08:00:57 INFO api user=u108 action=get_orders status=ok latency_ms=39
+2026-07-01 08:01:00 INFO auth user=u110 action=login status=ok
+2026-07-01 08:01:02 ERROR payments user=u110 action=charge status=declined code=05
+2026-07-01 08:01:05 INFO api user=u106 action=search status=ok latency_ms=73
+2026-07-01 08:01:08 INFO api user=u109 action=get_profile status=ok latency_ms=41
+2026-07-01 08:01:11 WARN api user=u110 action=search status=slow latency_ms=1560
+2026-07-01 08:01:13 INFO payments user=u110 action=charge status=ok amount=59.00
+2026-07-01 08:01:16 INFO auth user=u111 action=login status=ok
+2026-07-01 08:01:18 INFO api user=u111 action=get_orders status=ok latency_ms=45
+2026-07-01 08:01:21 ERROR api user=u103 action=search status=timeout latency_ms=30000
+2026-07-01 08:01:24 INFO auth user=u108 action=logout status=ok
+2026-07-01 08:01:26 INFO api user=u107 action=get_orders status=ok latency_ms=52
+2026-07-01 08:01:29 INFO payments user=u111 action=charge status=ok amount=12.75
+2026-07-01 08:01:32 WARN auth user=u112 action=login status=retry attempt=2
+2026-07-01 08:01:34 INFO auth user=u112 action=login status=ok attempt=3
+2026-07-01 08:01:37 INFO api user=u112 action=get_profile status=ok latency_ms=49
+2026-07-01 08:01:40 INFO auth user=u101 action=logout status=ok

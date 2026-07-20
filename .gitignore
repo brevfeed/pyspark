@@ -1,0 +1,19 @@
+# Notebook / Python noise
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Spark local artifacts
+spark-warehouse/
+metastore_db/
+derby.log
+output/
+checkpoint/
+*.crc
+_SUCCESS
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

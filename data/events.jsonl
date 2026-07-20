@@ -1,0 +1,12 @@
+{"event_id": 1, "ts": "2026-06-01T08:00:01", "action": "view", "user": {"id": "u101", "country": "IN"}, "items": [{"sku": "A1", "qty": 1}]}
+{"event_id": 2, "ts": "2026-06-01T08:00:05", "action": "view", "user": {"id": "u102", "country": "DE"}, "items": [{"sku": "B2", "qty": 2}, {"sku": "C3", "qty": 1}]}
+{"event_id": 3, "ts": "2026-06-01T08:00:09", "action": "cart", "user": {"id": "u101", "country": "IN"}, "items": [{"sku": "A1", "qty": 1}]}
+{"event_id": 4, "ts": "2026-06-01T08:00:14", "action": "view", "user": {"id": "u103", "country": null}, "items": []}
+{"event_id": 5, "ts": "2026-06-01T08:00:20", "action": "purchase", "user": {"id": "u101", "country": "IN"}, "items": [{"sku": "A1", "qty": 1}], "payment": {"method": "upi", "amount": 9.99}}
+{"event_id": 6, "ts": "2026-06-01T08:00:26", "action": "view", "user": {"id": "u104", "country": "US"}}
+{"event_id": 7, "ts": "2026-06-01T08:00:31", "action": "cart", "user": {"id": "u102", "country": "DE"}, "items": [{"sku": "B2", "qty": 2}]}
+{"event_id": 8, "ts": "2026-06-01T08:00:37", "action": "view", "user": {"id": "u105", "country": "UK"}, "items": [{"sku": "D4", "qty": 1}]}
+{"event_id": 9, "ts": "2026-06-01T08:00:44", "action": "purchase", "user": {"id": "u102", "country": "DE"}, "items": [{"sku": "B2", "qty": 2}], "payment": {"method": "card", "amount": 37.0}}
+{"event_id": 10, "ts": "2026-06-01T08:00:51, "action": "view", "user": {"id": "u106"}}
+{"event_id": 11, "ts": "2026-06-01T08:00:58", "action": "view", "user": {"id": "u103", "country": "US"}, "items": [{"sku": "E5", "qty": 3}]}
+{"event_id": 12, "ts": "2026-06-01T08:01:04", "action": "purchase", "user": {"id": "u105", "country": "UK"}, "items": [{"sku": "D4", "qty": 1}], "payment": {"method": "card", "amount": 74.5}}
